@@ -1,0 +1,2 @@
+# sqlHelperDelete
+SQLHelper Delete Logic
